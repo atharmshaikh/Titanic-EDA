@@ -104,10 +104,10 @@ The following tools and Python libraries were used for this task:
 Example:
 
 ```text
-https://github.com 
+https://github.com/atharmshaikh/Titanic-EDA/blob/main/EDA-Titanic.ipynb
 |
 V 
-https://githubtocolab.com
+https://githubtocolab.com/atharmshaikh/Titanic-EDA/blob/main/EDA-Titanic.ipynb
 ```
 
 ### 6.2. Locally (Using Jupyter Notebook)
@@ -115,7 +115,7 @@ https://githubtocolab.com
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com
+   git clone https://github.com/atharmshaikh/Titanic-EDA
    ```
 
 2. Open the notebook using:
